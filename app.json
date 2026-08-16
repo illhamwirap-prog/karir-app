@@ -11,6 +11,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "owner": "ilhamwiraps-team",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.karir.app"
