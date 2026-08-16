@@ -8,7 +8,9 @@
     "splash": {
       "backgroundColor": "#1E2A22"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.karir.app"
@@ -20,10 +22,8 @@
       "package": "com.karir.app"
     },
     "web": {
-  "bundler": "metro"
-{
-  "expo": {
-    ...
+      "bundler": "metro"
+    },
     "extra": {
       "eas": {
         "projectId": "299cb514-2f48-487d-a4c3-c10a86018ad4"
