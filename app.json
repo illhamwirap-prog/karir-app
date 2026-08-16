@@ -20,7 +20,14 @@
       "package": "com.karir.app"
     },
     "web": {
-      "bundler": "metro"
+  "bundler": "metro"
+{
+  "expo": {
+    ...
+    "extra": {
+      "eas": {
+        "projectId": "299cb514-2f48-487d-a4c3-c10a86018ad4"
+      }
     }
   }
 }
