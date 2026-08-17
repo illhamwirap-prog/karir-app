@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Karir",
+    "slug": "karir",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1E2A22"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "owner": "ilhamwiraps-team",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.karir.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1E2A22"
+      },
+      "package": "com.karir.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "299cb514-2f48-487d-a4c3-c10a86018ad4"
+      }
+    }
+  }
+}
